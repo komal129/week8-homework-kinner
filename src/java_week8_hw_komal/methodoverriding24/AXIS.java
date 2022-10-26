@@ -1,0 +1,8 @@
+package java_week8_hw_komal.methodoverriding24;
+
+public class AXIS {
+
+    public int getRateOfInterest(){
+        return 9;
+    }
+}
